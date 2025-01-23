@@ -164,6 +164,7 @@ GEM
     nokogiri (1.18.2-x86_64-linux-gnu)
       racc (~> 1.4)
     orm_adapter (0.5.0)
+    pg (1.5.9)
     psych (5.2.3)
       date
       stringio
@@ -276,6 +277,7 @@ DEPENDENCIES
   jbuilder
   mini_magick
   mysql2 (~> 0.5)
+  pg
   puma (>= 5.0)
   rails (~> 7.1.0)
   selenium-webdriver
